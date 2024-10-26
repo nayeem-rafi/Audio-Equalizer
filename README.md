@@ -1,7 +1,7 @@
 # Audio Equalizer
 By [Naimur Rahman](https://github.com/nayeem-rafi)
 
-## [Click for Open Source of Project Details & Video](https://drive.google.com/drive/folders/143pPSeegIlqwhsBaHHmNfdwPBPDkPjsw?usp=drive_link)
+## [Click for Files](https://drive.google.com/drive/folders/143pPSeegIlqwhsBaHHmNfdwPBPDkPjsw?usp=drive_link)
 ## [Click for Full Audio Effect Processor](https://github.com/nayeem-rafi/Audio-Effect-Processor)
 ## [Click for Audio De-Effect Processor](https://github.com/nayeem-rafi/Audio-De-Effect-Processor)
 
